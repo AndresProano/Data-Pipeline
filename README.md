@@ -100,7 +100,7 @@
   Tomando en cuenta que la toma de datos es solo de una persona, no contaremos con una gran cantidad de datos por lo que no será necesario un volumen tan grande. 
 </p>
 
-![Gráfico 2. Tabla de sueño](https://github.com/AndresProano/Data-Pipeline/blob/master/Foto/Captura%20de%20Pantalla%202024-04-15%20a%20la(s)%2021.40.30.png)
+![Gráfico 2. Tabla de sueño](https://github.com/AndresProano/Data-Pipeline/blob/master/Foto/Captura%20de%20Pantalla%202024-04-15%20a%20la(s)%2021.44.38.png)
 
 <p>
 	Bajo estos datos, no necesitaremos una gran cantidad de volumen, 10 gygabites seria suficiente para el almacenamiento de estos.
