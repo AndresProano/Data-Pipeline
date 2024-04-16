@@ -35,7 +35,7 @@
 ![Gráfico 1. Datos de rendimiento](https://github.com/AndresProano/Data-Pipeline/blob/master/Foto/Captura%20de%20Pantalla%202024-04-15%20a%20la(s)%2019.30.08.png)
 
 <p>
-	Bajo estos datos, no necesitaremos una gran cantidad de volumen, 10 gygabites seria suficiente para el almacenamiento de estos.
+	Bajo estos datos, no necesitaremos una gran cantidad de volumen, 1 gygabites seria suficiente para el almacenamiento de estos en el periodo de un año.
 </p>
 
 ### Velocidad: 
@@ -103,7 +103,7 @@
 ![Gráfico 2. Tabla de sueño](https://github.com/AndresProano/Data-Pipeline/blob/master/Foto/Captura%20de%20Pantalla%202024-04-15%20a%20la(s)%2021.44.38.png)
 
 <p>
-	Bajo estos datos, no necesitaremos una gran cantidad de volumen, 10 gygabites seria suficiente para el almacenamiento de estos.
+	Bajo estos datos, no necesitaremos una gran cantidad de volumen, 1 gygabites seria suficiente para el almacenamiento de estos en el periodo de un año.
 </p>
 
 ### Velocidad: 
