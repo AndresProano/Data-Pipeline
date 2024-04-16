@@ -1,4 +1,4 @@
-V# Data-Pipeline
+# Data-Pipeline
 
 <p>
   Piense en 2 aspectos de su vida personal en los cuales usted puede recolectar datos. Haga un análisis de las 5 Vs de los datos, y explique cada una de ellas para estos dos ejemplos. Explique los beneficios principales del uso de datos en estos ejemplos. Enumere algunos cambios o decisiones que podrían tomarse en base de esos datos. 
@@ -32,7 +32,7 @@ V# Data-Pipeline
   Podemos poner como ejemplo una primera semana de toma de datos: 
 </p>
 
-![]()
+![Gráfico 1. Datos de rendimiento](https://github.com/AndresProano/Data-Pipeline/blob/master/Foto/Captura%20de%20Pantalla%202024-04-15%20a%20la(s)%2019.30.08.png)
 
 <p>
 	Bajo estos datos, no necesitaremos una gran cantidad de volumen, 10 gygabites seria suficiente para el almacenamiento de estos.
